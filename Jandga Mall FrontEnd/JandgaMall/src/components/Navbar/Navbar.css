@@ -1,0 +1,50 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  padding-inline: 2px;
+  background-color: rgba(54, 47, 92, 0.973);
+}
+.ul {
+  display: flex;
+  list-style: none;
+  color: white;
+}
+
+.si {
+  width: 355px;
+  height: 36px;
+  margin-left: -150px;
+  margin-top: 25px;
+  padding-top: 2.5px;
+}
+
+.s {
+  height: 15px;
+  margin-top: 15px;
+  padding-top: -10px;
+}
+.cart-icon svg {
+  font-size: 36px;
+  margin-bottom: -10px;
+}
+.sign {
+  margin-top: 25px;
+  margin-left: 5px;
+}
+img {
+  margin-right: 74vw;
+}
+.dl {
+  margin-left: -550px;
+}
+.pge {
+  display: flex;
+  margin-left: -15vw;
+  column-gap: 2px;
+  color: white;
+}
+.p {
+  padding-right: 12vw;
+  margin-left: -50px;
+  margin-top: 25px;
+}
